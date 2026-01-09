@@ -48,7 +48,6 @@ The dataset is **synthetic but statistically realistic**, created to avoid overu
 ## 🏗️ Project Structure
 
 naive_bayes_personality_traits/
-│
 ├── data/
 │   └── dataset.csv
 │
