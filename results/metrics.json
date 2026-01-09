@@ -1,0 +1,14 @@
+{
+    "GaussianNB": {
+        "accuracy": 0.9988,
+        "f1_score": 0.999399279134962
+    },
+    "MultinomialNB": {
+        "accuracy": 0.9988,
+        "f1_score": 0.999399279134962
+    },
+    "BernoulliNB": {
+        "accuracy": 0.9988,
+        "f1_score": 0.999399279134962
+    }
+}
